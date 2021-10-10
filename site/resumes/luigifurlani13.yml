@@ -14,18 +14,16 @@ basic_info:
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
-      Graduated in Civil Engineering from the Universidad de Costa Rica. 
-      Incorporated to the Federated College of Engineers and Architects of Costa Rica, credential N° IC-34897.
-
+      Graduated with an AA in Electrical Engineering from Miami Dade College. 
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/137543451_10214935951191387_330915055320850787_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGxVvUcP84cSU1LNMb04qdGI6NsI9S-_d0jo2wj1L793Sl5sdUvK5Jnb3oI3ri5fmk&_nc_ohc=tEmKZShevHkAX_NGjwl&_nc_ht=scontent-dfw5-2.xx&oh=dd0d816380ad9a6a4e9703d9e84482f6&oe=60364D11
+    avatar: http://sep.breatheco.de/static/profile-images/luigifurlani13.yml
 
     # Contact Information
-    email: lucydoja@hotmail.com
-    phone: +525531160532 
-    linkedin: www.linkedin.com/in/lucía-domínguez-jara
+    email: luisfurlan@icloud.com
+    phone: +1 (786)-614-5821
+    linkedin: www.linkedin.com/in/luis-furlan
     
     #
     # ******** IMPORTANT *******
@@ -41,79 +39,90 @@ basic_info:
         level: Native
 
       - idiom: English
-        level: Advanced
+        level: Expert
 
-      - idiom: French
-        level: Advanced (B2)
+      - idiom: Italian
+        level: Advanced 
 
-      - idiom: Portuguese
-        level: Intermediate
-
-
+    
     # Interests or hobies
     interests:
-      - item: Working out
+      - item: Working Out
 
       - item: Reading
 
-      - item: Cooking
+      - item: Playing Drums and Guitar
 
 # Your previous education
 education:
-    - degree: BSc Civil Engineering
-      university: Universidad de Costa Rica
+    - degree: AA in Electrical Engineering
+      university: Miami Dade College
       # optional
       
-      time: 2014 - 2019
-      details: Specialty areas of choice; geotechnical, transportation, hydraulic and structures.
+      time: 2016 - 2021
+      details: Dove into various calculus an physics courses to further comprehend the advancements of our technologies. 
 
     
 # Your previous job experiences or voluntier
 experiences:
-    - role: Consulting engineer
-      time: January 2020 – present
-      company: Transconsult S.A. de C.V.– 
+    - role: Bartender Server
+      time: May 2018 – present
+      company: Caffe Abbracci
+
       # optional
-      details: Writing reports, benchmarking and information analysis for the Integral Sustainable Urban Mobility Program of the Monterrey Metropolitan Area (PIMUS-ZMM, for its Spanish initials).
-    - role: Professors’ assistant
-      time: March 2018 – December 2019
-      company: Universidad de Costa Rica
+
+      details: Provide professional service to high profile customers
+               Always be neatly groomed
+               Know every detail of the menu
+
+    - role: General Manager
+      time: October 2019 - January 2020
+      company: Aim Higher Fitness
+
       # optional
       
-      details: Review and grade assignments, short exams, and projects, as well as solving students’ doubts.
+      details: Organize the merging of two companies
+               Oversee clients memberships and payments
+               Provide an employee schedule and log hours for payroll
          
-    - role: Assistant
-      time: July 2015 – December 2017
-      company: Laboratorio Nacional de Materiales y Modelos Estructurales (LanammeUCR) 
-      details: Assistant in the Management and Evaluation of the National Road Network Unit, where my responsibilities included; analyzing and synthesizing data on surface irregularities (IRI), friction (GRIP), impact deflectometer (FWD) and pavement auscultation to determine the condition of Costa Rica's paved national road network, as part of the biennial evaluation report that is responsibility of LanammeUCR as the auditing body. In addition, I carried out visual auscultation work through the use of Geo3D software.
+    - role: Food Runner
+      time: December 2016 – March 2018
+      company: Graziano's Restaurant
+
+        # optional
+
+      details: Clean and prepare station with sauces and lemons
+               Keep an orderly track of food and synchronize kitchen with the pace of the tables
+               Provide customers with great service backed by professionalism and a great attitude
+
 # Your project portfolio
 projects:
     intro: >
-      I haven't developed much as a developer.
+      These projects represent my broad personality and my high attention to detail.
     assignments:
-      - title: Project 1
+      - title: Drinkology
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#hook"
-        tagline: "Descripcion 1"
+        link: https://github.com/Kcuevas95/Drinkology.git
+        tagline: 
 
-      - title: Project 2
+      - title: Star-Wars-Reading-List
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "Descripcion 2"
+        link: https://github.com/luigifurlani13/Star-Wars-Blog-Reading-List.git
+        tagline: 
 
-      - title: Project 3
+      - title: Instragam Feed 
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "Desripcion"
+        link: https://github.com/luigifurlani13/Instagram-Feed-Bootstrap.git
+        tagline: 
 
      
 skills:
     toolset:
       - name: Python & Django
-        level: 10%
+        level: 20%
 
       - name: Javascript & jQuery
         level: 50%
@@ -122,7 +131,7 @@ skills:
         level: 0%
 
       - name: HTML5 & CSS
-        level: 60%
+        level: 100%
 
       - name: Ruby on Rails
         level: 0%
